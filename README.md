@@ -1,3 +1,13 @@
+# Project structure
+
+- `SKILL.md` — full build instructions for Claude Code
+- `website-spec.md` — design decisions and architecture notes
+- `website_roadmap.html` — visual roadmap reference
+- `/web` — Next.js project lives here
+```
+
+---
+
 # Prerequisition Tools:
 Лучший путь — сначала поднять чистый каркас самому, потом отдать Claude Code точечную работу
 
