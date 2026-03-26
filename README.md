@@ -1,4 +1,11 @@
-# Project structure
+# To run this site do:
+cd web/
+pnpm dev
+Last udpate: 3/26/2026 1:17PM
+
+
+
+## Project structure
 
 - `SKILL.md` — full build instructions for Claude Code
 - `website-spec.md` — design decisions and architecture notes
