@@ -1,7 +1,23 @@
 # To run this site do:
 cd web/
 pnpm dev
-Last udpate: 3/26/2026 1:17PM
+Last udpate: 4/06/2026 1:17PM
+
+
+
+## Tech Stack
+
+| Layer | Choice |
+|---|---|
+| Framework | Next.js 14 (App Router) |
+| Styling | Tailwind CSS |
+| Animations | Framer Motion |
+| Icons | Lucide React |
+| Forms | React Hook Form |
+| Fonts | `Barlow Condensed` (700) for headings + `DM Sans` (400/500) for body — via `next/font/google` |
+| Theme | **Dark industrial** — `#111111` background, `#C79A1B` mustard accent, no light mode |
+
+---
 
 
 
